@@ -1,0 +1,14 @@
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\ExercícioProposto2\ExercícioProposto2\bin\Debug\net6.0\ExercícioProposto2.exe
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\ExercícioProposto2\ExercícioProposto2\bin\Debug\net6.0\ExercícioProposto2.deps.json
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\ExercícioProposto2\ExercícioProposto2\bin\Debug\net6.0\ExercícioProposto2.runtimeconfig.json
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\ExercícioProposto2\ExercícioProposto2\bin\Debug\net6.0\ExercícioProposto2.dll
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\ExercícioProposto2\ExercícioProposto2\bin\Debug\net6.0\ExercícioProposto2.pdb
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\ExercícioProposto2\ExercícioProposto2\obj\Debug\net6.0\ExercícioProposto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\ExercícioProposto2\ExercícioProposto2\obj\Debug\net6.0\ExercícioProposto2.AssemblyInfoInputs.cache
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\ExercícioProposto2\ExercícioProposto2\obj\Debug\net6.0\ExercícioProposto2.AssemblyInfo.cs
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\ExercícioProposto2\ExercícioProposto2\obj\Debug\net6.0\ExercícioProposto2.csproj.CoreCompileInputs.cache
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\ExercícioProposto2\ExercícioProposto2\obj\Debug\net6.0\ExercícioProposto2.dll
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\ExercícioProposto2\ExercícioProposto2\obj\Debug\net6.0\refint\ExercícioProposto2.dll
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\ExercícioProposto2\ExercícioProposto2\obj\Debug\net6.0\ExercícioProposto2.pdb
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\ExercícioProposto2\ExercícioProposto2\obj\Debug\net6.0\ExercícioProposto2.genruntimeconfig.cache
+C:\ADS\C# e .NET\Projetos\OperadoresDeAtribuição\ExercícioProposto2\ExercícioProposto2\obj\Debug\net6.0\ref\ExercícioProposto2.dll
